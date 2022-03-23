@@ -1,0 +1,47 @@
+
+*{
+  max-width: 100%;
+}
+body
+{
+  margin: 0;
+  overflow-x: hidden;
+}
+#brandicon
+{
+  height: 1rem;
+  margin-right: 50%;
+}
+.head
+{
+  background-image: url(icons/volvo.jpg);
+  background-size: cover;
+background-position: center;
+background-repeat: no-repeat;
+height: 45em;
+}
+.headtext
+{
+  margin-top: 15rem;
+  margin-left: 50%;
+  color: #fff;
+
+}
+#videovolvo
+{
+   width: 1200px;
+    height: 675px;
+     left: 0px;
+      top: 0px;
+}
+.footerRow
+{
+  color: #fff;
+  background-color: black;
+
+}
+.footerRow a
+{
+  color: white;
+  text-decoration: none;
+}
